@@ -4,7 +4,7 @@
 	font-family:verdana;
 	padding:5px;
 }
-.header{
+.f2{
 	background: #011e29;
 	color:white;
 	width:100% ;
@@ -15,7 +15,7 @@
 	top:10px;
 	
 }
-.f3 div{
+.header div{
 	padding:20px;
 	margin:10px;
 	background:white;
@@ -33,7 +33,7 @@
 	height:100px;
 	align-items:center;
 }
-.f3{
+.header{
 	display:flex;
 	justify-content:space-between;
 	box-sizing:border-box;
