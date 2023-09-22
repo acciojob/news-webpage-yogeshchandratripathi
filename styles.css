@@ -4,7 +4,7 @@
 	font-family:verdana;
 	padding:5px;
 }
-.f2{
+.header{
 	background: #011e29;
 	color:white;
 	width:100% ;
@@ -23,7 +23,12 @@
 	border-radius:10px;
 	box-sizing:border-box;
 }
-.f4 img{
+.latest-news-section img{
+	width:150px;
+	height:100px;
+	align-items:center;
+}
+.pictorial-news-section img{
 	width:150px;
 	height:100px;
 	align-items:center;
