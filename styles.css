@@ -1,21 +1,7 @@
 /*  your css code here. If applicable */
-.f1{
-	background:#f5f5f5;
-	font-family:verdana;
-}
 .header{
+	text-align:center;
+	padding:15px;
 	background:#011e29;
 	color:white;
-	text-align:center;
-	padding:10px;
-}
-.latest-news-section{
-	background:white;
-	width:200px vw;
-	padding:10px;
-}
-.main-article-section{
-	background:white;
-	width:200px vw;
-	padding:10px;
 }
