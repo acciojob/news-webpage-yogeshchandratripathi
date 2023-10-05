@@ -4,6 +4,7 @@
 	padding:15px;
 	background:#011e29;
 	color:white;
+	margin-top:1px;
 }
 .pictorial-news-section img{
 	width:150px;
@@ -31,6 +32,7 @@ body{
 	align-item:center;
 	gap:8px;
 	padding:20px;
+	
 }
 .latest-news-section{
 	width:1100px;
